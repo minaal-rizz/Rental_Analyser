@@ -71,7 +71,6 @@ data/rental_metadata.json
 🚀 Run the App
 Launch the Streamlit app:
 streamlit run app.py
-Open 👉 http://localhost:8501
 Example Queries:
 "Show me all agreements expiring in 2025"
 "Which branch in Karachi has the highest rent?"
